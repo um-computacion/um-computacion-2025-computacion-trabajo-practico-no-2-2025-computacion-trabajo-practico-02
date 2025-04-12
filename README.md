@@ -1,7 +1,8 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/JovkJbhN)
 # Trabajo Práctico 2: Desarrollo Guiado por Pruebas (TDD) - Detector de Palíndromos
 
 ## Identificación del Alumno
-**Nombre y Apellido:** [Completar con tu nombre y apellido]
+**Nombre y Apellido:** Maria Eva Modarelli
 
 **Nota:** Este trabajo práctico es de carácter individual. Cada alumno debe realizar su propia implementación y no se permite el trabajo en grupo.
 
@@ -134,15 +135,15 @@ Para trabajar con este repositorio, es importante seguir estas pautas:
 
 4. **Milestones**
    - Milestone 1: Implementación de Tests
-     - Issue: "Agregar tests para palíndromos simples"
-     - Issue: "Agregar tests para frases palíndromas"
-     - Issue: "Agregar tests para casos no palíndromos"
-     - Issue: "Agregar tests para casos edge"
+     - Issue : "Agregar tests para palíndromos simples"
+     - Issue : "Agregar tests para frases palíndromas"
+     - Issue : "Agregar tests para casos no palíndromos"
+     - Issue : "Agregar tests para casos edge"
    
    - Milestone 2: Implementación de la Solución
-     - Issue: "Implementar función is_palindrome"
-     - Issue: "Implementar limpieza de texto"
-     - Issue: "Implementar comparación de caracteres"
+     - Issue : "Implementar función is_palindrome"
+     - Issue : "Implementar limpieza de texto"
+     - Issue : "Implementar comparación de caracteres"
 
 5. **Commits y Pull Requests**
    - Cada push debe ir acompañado de un PR
